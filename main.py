@@ -37,15 +37,14 @@ data = {
 result_list = []
 
 
-def func_for_response(url_with_params):
+def func_for_response(url_with_params, headers, cookies, data):
     response = requests.post(url_with_params, headers=headers, cookies=cookies, data=data)
     response.raise_for_status()
     return response
 
 try:
 
-    for url_item in url:
-        response = func_for_response(url_with_params)
+    response = func_for_response(url_with_params, headers, cookies, data)
 
     if response.ok:
         json_data = json.loads(response.text)
