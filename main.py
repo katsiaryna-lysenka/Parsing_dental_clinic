@@ -42,22 +42,27 @@ def func_for_response(url_with_params, headers, cookies, data):
     response.raise_for_status()
     return response
 
+
+def process_html_for_first_site(response_text):
+    json_data = json.loads(response_text)
+    html_content = json_data['data']['html']
+    soup = BeautifulSoup(html_content, 'html.parser')
+    elements_with_class = soup.select('.jet-listing-grid__item')
+    return elements_with_class
+
+
+def extract_schedule(schedule_string):
+    matches = re.findall(r'Horario: (.*?)(?=\r\n|$)', schedule_string)
+    return matches
+
+
 try:
 
     response = func_for_response(url_with_params, headers, cookies, data)
 
     if response.ok:
-        json_data = json.loads(response.text)
 
-        html_content = json_data['data']['html']
-
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        elements_with_class = soup.select('.jet-listing-grid__item')
-
-        def extract_schedule(schedule_string):
-            matches = re.findall(r'Horario: (.*?)(?=\r\n|$)', schedule_string)
-            return matches
+        elements_with_class = process_html_for_first_site(response.text)
 
         for element in elements_with_class:
             result_item = {}
