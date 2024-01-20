@@ -5,12 +5,6 @@ from bs4 import BeautifulSoup
 import re
 
 url = "https://dentalia.com/clinica/"
-       # "https://www.santaelena.com.co/tiendas-pasteleria/tienda-medellin/",
-       # "https://www.santaelena.com.co/tiendas-pasteleria/tienda-bogota/",
-       # "https://www.santaelena.com.co/tiendas-pasteleria/tienda-monteria/",
-       # "https://www.santaelena.com.co/tiendas-pasteleria/tiendas-pastelerias-pereira/",
-       # "https://www.santaelena.com.co/tiendas-pasteleria/nuestra-pasteleria-en-barranquilla-santa-elena/"
-
 output_file = "result.json"
 cookies = {'_ga': 'GA1.1.798642735.1705659686', '_lscache_vary': '7f9211ff83e640e486010157d7d75cd1', '_gcl_au': '1.1.961798081.1705659693', '_hjSessionUser_3724640': 'eyJpZCI6IjE1Y2NkYTA3LTNkNGItNWQ0MC05MWViLTI5NDYxMGU0MzgyMyIsImNyZWF0ZWQiOjE3MDU2NTk2OTM5NjQsImV4aXN0aW5nIjp0cnVlfQ==', 'PHPSESSID': 'e6qam4gppv1k32hg2mjmvspddk', '_hjIncludedInSessionSample_3724640': '0', '_hjSession_3724640': 'eyJpZCI6IjI2ZDQxNjBiLTk1OWItNDViZS05MjZkLTM2MGNjM2U4NzBlZiIsImMiOjE3MDU3NDQ3NTI0NTIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=', '_ga_94GCJ4Q0CE': 'GS1.1.1705744750.5.1.1705745728.0.0.0', '_ga_EN8BN980LH': 'GS1.1.1705744750.5.1.1705745729.59.0.0', '_ga_FMK4KRGVF2': 'GS1.1.1705744750.5.1.1705745729.0.0.0'}
 
@@ -106,6 +100,3 @@ try:
 
 except requests.exceptions.RequestException as e:
     print(f"Error: {e}")
-
-
-

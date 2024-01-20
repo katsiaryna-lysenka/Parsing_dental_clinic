@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Encuentro Oceanía",
+    "address": "Av. del Peñón 355, Moctezuma 2da Secc, Venustiano Carranza, 15530 Ciudad de México, CDMX",
+    "latlon": [
+      19.4391319,
+      -99.1032383
+    ],
+    "phones": [
+      "5557669999",
+      "5511649418"
+    ],
+    "working_hours": [
+      "Jue a Mar 11am a 8pm"
+    ]
+  },
+  {
+    "name": "Galerías Monterrey",
+    "address": "Av Insurgentes 2500-Local 737, Vista Hermosa, 64630 Monterrey, N.L.",
+    "latlon": [
+      25.681503,
+      -100.3574951
+    ],
+    "phones": [
+      "8181233629",
+      "8181239334"
+    ],
+    "working_hours": [
+      "L a V 9am a 8pm"
+    ]
+  },
+  {
+    "name": "Península Tijuana",
+    "address": "Vía Rápida Ote. 15000 Chapultepec Alamar, 22150 Tijuana, B.C. Nivel 1 - L-4",
+    "phones": [
+      "6644230960",
+      "6644230961"
+    ],
+    "working_hours": [
+      "L a V 9am a 8pm"
+    ]
+  },
+  {
+    "name": "Galerías Atizapán",
+    "address": "Avenida Ruiz Cortines número 255,  Mz 2, Lt I, Manzana II, Fraccionamiento Lomas de Atizapán, CP 52977, Atizapán de Zaragoza, Estado de México.",
+    "phones": [
+      "5541237518",
+      "5541237519"
+    ],
+    "working_hours": [
+      "Lunes a Viernes 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Acoxpa",
+    "address": "Calz. Acoxpa 430, Ex-Hacienda Coapa, 14300, CDMX.",
+    "latlon": [
+      19.298953,
+      -99.2069353
+    ],
+    "phones": [
+      "5556772198",
+      "5556780750"
+    ],
+    "working_hours": [
+      "Lun - Vie: 10:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Santa Fe",
+    "address": "Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX Local 569, Segundo Nivel",
+    "phones": [
+      "5547378430",
+      "5547378431"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Las Misiones",
+    "address": "Boulevard Teófilo Borunda 8681, Col. Partido Iglesias, CP. 32663, Ciudad Juárez, Chihuahua, México.",
+    "phones": [
+      "6564787700",
+      "6564787701"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Altabrisa",
+    "address": "Calle 7 451, Fraccionamiento Altabrisa, 97133 Mérida, Yuc.",
+    "phones": [
+      "9992110274",
+      "9991679475"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Playa del Carmen",
+    "address": "Calle Quinta Avenida 156, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R.",
+    "phones": [
+      "9848030461",
+      "9848032962"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Urban Center Cancún",
+    "address": "Av. Nichupté S/N entre Acanceh y Tulum, Supermanzana 15-A Manzana 4, Lote 1, 77500 Cancún, Q.R",
+    "phones": [
+      "9988821395",
+      "9988821393"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Real Center",
+    "address": "Av. Santa Margarita 3600, Fraccionamiento Residencial Poniente, Local 10 Y 11, 45136, Zapopan - Jalisco",
+    "latlon": [
+      13.696812,
+      -109.846633
+    ],
+    "phones": [
+      "3313715223",
+      "3313715047"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Midtown Jalisco",
+    "address": "Avenida Adolfo López Mateos Norte No. 2405, Local L-77, Col. Italia Providencia Zona 2 Minerva, C.P. 44648, Guadalajara, Jalisco",
+    "phones": [
+      "3338171929",
+      "3338171657"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Gran Plaza",
+    "address": "Av. Vallarta 3959 Local G-2, Don Bosco, 44540 Guadalajara, Jalisco.",
+    "phones": [
+      "3336211851",
+      "3336211852"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Galerías Guadalajara",
+    "address": "Avenida Rafael Sanzio #150, Local U-5, Col. La Estancia, Municipio de Zapopan, C.P. 45030, Estado de Jalisco",
+    "phones": [
+      "3336321745",
+      "3336312172"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Andares",
+    "address": "Blvd. Puerta de Hierro 4965, Puerta de Hierro, 45116, Zapopan, Jalisco.",
+    "phones": [
+      "3336111725",
+      "3336112045"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 9:00"
+    ]
+  },
+  {
+    "name": "Chihuahua",
+    "address": "Av. Periférico de la Juventud 3501, Local U-59 y U-60 Fracc. Plaza del Sol, 31236, Chihuahua.",
+    "phones": [
+      "6144303127",
+      "6144301487"
+    ],
+    "working_hours": [
+      "Lun - Vie: 10:00 a 19:00"
+    ]
+  },
+  {
+    "name": "Paseo Chapultepec",
+    "address": "Blvd. Agua Caliente 10387, Neidhart, 22020 Tijuana, B.C. BC",
+    "phones": [
+      "6646818528",
+      "6646818911"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "City Center Pitic",
+    "address": "Boulevard José María Morelos y Pavón 355, Bachoco, 83148, Sonora.",
+    "latlon": [
+      18.7736821,
+      -113.6362985
+    ],
+    "phones": [
+      "6622111347",
+      "6622111402"
+    ],
+    "working_hours": [
+      "Lun - Vie: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Hermosillo",
+    "address": "Blvd. Cultura 55 Oriente, Local C-19 y C-20, Proyecto Rio Sonora, 83280, Hermosillo, Sonora.",
+    "phones": [
+      "6622121961",
+      "6622120869"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Saltillo",
+    "address": "Blvd. Nazario Ortiz Garza No. 2345 L-142 Col. Tanque de Peña, C.P. 25279  Saltillo, Coahuila",
+    "phones": [
+      "8444851749",
+      "8444851820"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Laguna",
+    "address": "Av. Periférico Raúl López Sánchez, 6000 L-275, El Fresno, 27018  Torreón, Coahuila",
+    "phones": [
+      "8717508099",
+      "8717508213"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Galerías Valle Oriente",
+    "address": "Av. Lázaro Cárdenas No. 1000 Local 1158 Col. Valle del Mirador C.P. 64750 San Pedro, Nuevo León.",
+    "phones": [
+      "8184860015",
+      "8184860016"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Multiplaza",
+    "address": "Av. Miguel Alemán 5054, Local 144, Col, Linda Vista, Guadalupe N.L., 67130",
+    "phones": [
+      "8188504121",
+      "8188504122"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Fiesta San Agustín",
+    "address": "Av. Real San Agustin 222, LOCAL 22 -28, Zona San Agustín, 66260 San Pedro Garza García, N.L.",
+    "latlon": [
+      16.6643853,
+      -98.9662318
+    ],
+    "phones": [
+      "8183631481",
+      "8183635157"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Citadel",
+    "address": "Av. Rómulo Garza 410, Local B-11, La Fe, 66477, San Nicolás de los Garza, N. L.",
+    "phones": [
+      "8182409650",
+      "8182409651"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Fiesta Anáhuac",
+    "address": "Nte., Av. Manuel L. Barragán 325, Local 2000 y 2001, Anáhuac, 66450, San Nicolás de los Garza, N.L.",
+    "latlon": [
+      16.7092235,
+      -98.9561787
+    ],
+    "phones": [
+      "8183322975",
+      "8183322992"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 19:00"
+    ]
+  },
+  {
+    "name": "San Luis",
+    "address": "Blvd. Antonio Rocha Cordero 700 local B-37 Fracc. Lomas del Tecnológico, 78215, San Luis Potosí.",
+    "phones": [
+      "4448174435",
+      "4448174438"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Plaza mayor",
+    "address": "Blvd. Juan Alonso de Torres No. 2002 Loc. 2342 Col. Valle del Campestre, 37150 León Guanajuato.",
+    "phones": [
+      "4777172580",
+      "4777175862"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Altaria",
+    "address": "Blvd. A Zacatecas #849, L-1117 A y L-1117B, Trojes de Alonso, C.P. 20116, Aguascalientes, Aguascalientes.",
+    "phones": [
+      "4499258100",
+      "4499258101"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Plaza solesta",
+    "address": "Atlixcáyotl 4931, L-29 y L-35, Reserva Territorial Atlixcáyotl, Centros Comerciales Desarrollo Atlixcáyotl, CP. 72193, Puebla, Puebla",
+    "phones": [
+      "2222839713",
+      "2222839810"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Puerta la Victoria",
+    "address": "Av. Constituyentes Ote. 40, Mercurio, 76040 Santiago de Querétaro, Qro.",
+    "latlon": [
+      14.1593599,
+      -98.9938312
+    ],
+    "phones": [
+      "4422291010",
+      "4422291035"
+    ],
+    "working_hours": [
+      "Lun - Vie: 8:00 a 21:00"
+    ]
+  },
+  {
+    "name": "Urban Center Juriquilla",
+    "address": "Blvd. Jurica La Campana, 899 L-22-23, Residencial Caletto, 76230   Qro. Juriquilla .",
+    "phones": [
+      "4426881100",
+      "4426881101"
+    ],
+    "working_hours": [
+      "Lun - Vie: 8:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Satélite",
+    "address": "Circuito Centro Comercial N. 2252, Local SA01, Ciudad Satélite, Municipio Naucalpan de Juaréz, C.P. 53100, Edo. Mex.",
+    "phones": [
+      "5511023864",
+      "5511023865"
+    ],
+    "working_hours": [
+      "Lun - Dom: 10:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Parque Toreo",
+    "address": "Boulevard Manuel Ávila Camacho No. 5 L-18 y L-19, Fraccionamiento Lomas de Sotelo, C.P. 53390. Naucalpan de Juárez, Edo. Mex.",
+    "phones": [
+      "5550804862",
+      "5550804863"
+    ],
+    "working_hours": [
+      "Lun - Dom: 11:00 a 20:00"
+    ]
+  },
+  {
+    "name": "Valle Dorado",
+    "address": "Blvd. Manuel Ávila Camacho, 3130 L-119,  Valle Dorado, 54020 Tlalnepantla, Estado de México.",
+    "phones": [
+      "5521594878",
+      "5553784927"
+    ],
+    "working_hours": [
+      "Lun - Vie: 9:00 a 21:00"
+    ]
+  }
+]
